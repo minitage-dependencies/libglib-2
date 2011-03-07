@@ -1,0 +1,6 @@
+*.pyc
+.download
+.installed.cfg
+bin
+parts
+

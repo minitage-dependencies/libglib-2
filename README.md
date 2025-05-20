@@ -1,6 +1,8 @@
 DISCLAIMER - ABANDONED/UNMAINTAINED CODE / DO NOT USE
 =======================================================
+
 This project has been transfered to Makina Corpus <freesoftware@makina-corpus.com> ( https://makina-corpus.com ).
+
 minitage project was terminated in 2013. Consequently, this repository and all associated resources (including related projects, code, documentation, and distributed packages such as Docker images, PyPI packages, etc.) are now explicitly declared **unmaintained** and **abandoned**.
 
 I would like to remind everyone that this project’s free license has always been based on the principle that the software is provided "AS-IS", without any warranty or expectation of liability or maintenance from the maintainer.
